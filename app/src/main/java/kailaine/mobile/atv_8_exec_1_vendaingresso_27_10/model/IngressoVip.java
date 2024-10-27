@@ -1,5 +1,7 @@
 package kailaine.mobile.atv_8_exec_1_vendaingresso_27_10.model;
-
+/*
+ *@author:<Kailaine Almeida de Souza RA: 1110482313026>
+ */
 public class IngressoVip extends Ingresso {
     private String funcao;
 

@@ -1,5 +1,7 @@
 package kailaine.mobile.atv_8_exec_1_vendaingresso_27_10;
-
+/*
+ *@author:<Kailaine Almeida de Souza RA: 1110482313026>
+ */
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
