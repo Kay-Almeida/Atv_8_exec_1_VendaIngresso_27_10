@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atv_8_exec_1_VendaIngresso_27_10</string>
+    <string name="cod">Código Identificador</string>
+    <string name="valor">Valor do Ingresso</string>
+    <string name="funcao">Função Exercida</string>
+    <string name="comprar">Comprar</string>
+    <string name="voltar">Voltar</string>
+    <string name="infoIngresso">Informações do Ingresso</string>
+    <string name="vip">VIP</string>
+
+</resources>
